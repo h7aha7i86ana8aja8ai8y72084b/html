@@ -1,40 +1,28 @@
-title:            Blog Title
-description:      Describe your website here.
+title:            Letscode HTML Center
+description:      Learn HTML!
 
 # put your disqus here
 disqus_shortname:
-reading_time:     true # if true, shows the estimated reading time for a post
+reading_time:     false # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/logo.png # logo visible in the topbar
 excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: https://h7aha7i86ana8aja8ai8y72084b.github.io/html/
+url: https://html.letscodebeta.tk/
+
 # draw your top menu here
 # each item must have a title and a url.
 #   To list post categories. use type: 'categories'
 #   To create sub categories. add a submenu item
 # See the example
+
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
-  - title: 'Tags'
-    url: '/tags'
-  - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+  - title: 'More coding languages'
+    url: 'letscodebeta.tk/select'
 
 # Owner/author information
 owner:
