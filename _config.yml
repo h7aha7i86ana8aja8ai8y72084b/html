@@ -22,7 +22,7 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'More coding languages'
-    url: 'letscodebeta.tk/select'
+    url: 'https://letscodebeta.tk/select'
 
 # Owner/author information
 owner:
